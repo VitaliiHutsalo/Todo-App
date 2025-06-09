@@ -1,5 +1,7 @@
 📝 Todo App with API
 
+🔗 [DEMO LINK](https://vitaliihutsalo.github.io/Todo-App/)
+
 🎨 Design Reference
 Inspired by the classic TodoMVC interface, this app delivers a clean and user-friendly experience with modern interactions and real-time sync.
 
@@ -34,5 +36,3 @@ ESLint, Prettier, Stylelint – for consistent code style and linting
 📱 Responsive design – fully functional on desktop and mobile
 
 ♻️ Reusable architecture – component-based with clean file structure
-
-🔗 [DEMO LINK](https://vitaliihutsalo.github.io/Todo-App/)
